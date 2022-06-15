@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Fluctuations ([PDF]({{< baseurl >}}/resources/slides01))
+Fluctuations ({{% resource_link 022efc2d-d6c0-228a-09ba-eb0558725a04 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Fluctuations ([PDF]({{< baseurl >}}/resources/slides01))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The basic model: The consumption/saving choice ([PDF]({{< baseurl >}}/resources/slides02))
+The basic model: The consumption/saving choice ({{% resource_link 8da7b686-ffee-d4bc-6d2f-1cd4a32f6950 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ The basic model: The consumption/saving choice ([PDF]({{< baseurl >}}/resources/
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Allowing for labor/leisure choice (the RBC model) ([PDF 1]({{< baseurl >}}/resources/slides03a)) ([PDF 2]({{< baseurl >}}/resources/slides03b))
+Allowing for labor/leisure choice (the RBC model) ({{% resource_link 65259928-047f-b736-5387-523bdf76381e "PDF 1" %}}) ({{% resource_link 5a25df70-b33f-c609-e49a-215532ea674e "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Allowing for labor/leisure choice (the RBC model) ([PDF 1]({{< baseurl >}}/resou
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Allowing for non-trivial investment decisions ([PDF]({{< baseurl >}}/resources/slides04))
+Allowing for non-trivial investment decisions ({{% resource_link 8f7a43f1-9008-13ff-5a07-35ec19bf530e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Allowing for two goods
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Introducing money ([PDF]({{< baseurl >}}/resources/slides06))
+Introducing money ({{% resource_link 674c807c-0213-618b-9959-2671bf2b002c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Introducing money ([PDF]({{< baseurl >}}/resources/slides06))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Introducing price setting ([PDF]({{< baseurl >}}/resources/slides07))
+Introducing price setting ({{% resource_link 2205d95a-0326-12f4-c712-b0a784cfa0a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ Introducing price setting ([PDF]({{< baseurl >}}/resources/slides07))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-The "new Keynesian" model ([PDF]({{< baseurl >}}/resources/slides08))
+The "new Keynesian" model ({{% resource_link 36f469a0-2ccc-6a42-8bd2-5cc8358cb5c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ The "new Keynesian" model ([PDF]({{< baseurl >}}/resources/slides08))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Monetary policy ([PDF]({{< baseurl >}}/resources/slides09))
+Monetary policy ({{% resource_link 4779abf1-0124-dabb-8ee1-2776e837290b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Monetary policy ([PDF]({{< baseurl >}}/resources/slides09))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Fiscal policy ([PDF]({{< baseurl >}}/resources/slides10))
+Fiscal policy ({{% resource_link 3381c120-a66b-4eef-e6fb-ff29b432cc1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
