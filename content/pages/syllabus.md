@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course description and information about textbooks,
+  recommended texts, MATLAB?, recommended citation, and an outline of course topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a308f911-5e37-dba1-0e62-8d575eb85a3b
 ---
