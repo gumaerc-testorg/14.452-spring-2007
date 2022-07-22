@@ -6,6 +6,7 @@ file: /courses/14-452-macroeconomic-theory-ii-spring-2007/4779abf10124dabb8ee127
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: slides09.pdf
 uid: 4779abf1-0124-dabb-8ee1-2776e837290b
 ---
 This resource contains lecture slides on monetary policy, time consistency, the inflation-output trade-off, and interest rate rules.
-
