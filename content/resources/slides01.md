@@ -5,6 +5,7 @@ description: This resource contains lecture slides with an introduction and info
   components, co-movements of output with employment, co-movements of output with
   prices, and co-movements of output and money.
 file: /courses/14-452-macroeconomic-theory-ii-spring-2007/022efc2dd6c0228a09baeb0558725a04_slides01.pdf
+file_size: 264103
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

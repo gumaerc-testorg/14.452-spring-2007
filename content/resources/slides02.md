@@ -6,6 +6,7 @@ description: This resource contains lecture slides on consumption/saving and pro
   solving the model, continuous time, ignoring uncertainty, linearization or log linearization,
   stochastic dynamic programming, and the decentralized economy.
 file: /courses/14-452-macroeconomic-theory-ii-spring-2007/8da7b686ffeed4bc6d2f1cd4a32f6950_slides02.pdf
+file_size: 266369
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
