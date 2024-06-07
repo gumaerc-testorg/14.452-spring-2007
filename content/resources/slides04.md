@@ -7,6 +7,7 @@ description: This resource contains lecture slides on allowing for non-trivial i
   of interest rates in the closed economy, aggregate demand, the term structure, marginal
   and average q, and investment, and stock market valuation, bubbles, and investment.
 file: /courses/14-452-macroeconomic-theory-ii-spring-2007/8f7a43f1900813ff5a0735ec19bf530e_slides04.pdf
+file_size: 263605
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
