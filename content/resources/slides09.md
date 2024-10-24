@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on monetary policy, time consistency,
   the inflation-output trade-off, and interest rate rules.
-file: /courses/14-452-macroeconomic-theory-ii-spring-2007/4779abf10124dabb8ee12776e837290b_slides09.pdf
+file: /ol-ocw-studio-app/courses/14-452-macroeconomic-theory-ii-spring-2007/4779abf10124dabb8ee12776e837290b_slides09.pdf
 file_size: 195166
 file_type: application/pdf
 learning_resource_types:
