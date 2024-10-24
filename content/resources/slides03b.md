@@ -4,7 +4,7 @@ description: This resource contains lecture slides on movements in employment an
   the labor/leisure choice, technological shocks, the direct measurement of technological
   shocks, Solow residual, an alternative SVAR approach, and idiosyncratic versus aggregate
   technological shocks.
-file: /courses/14-452-macroeconomic-theory-ii-spring-2007/5a25df70b33fc609e49a215532ea674e_slides03b.pdf
+file: /ol-ocw-studio-app/courses/14-452-macroeconomic-theory-ii-spring-2007/5a25df70b33fc609e49a215532ea674e_slides03b.pdf
 file_size: 181282
 file_type: application/pdf
 learning_resource_types:
