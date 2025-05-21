@@ -5,7 +5,7 @@ description: This resource contains lecture slides on price setting, nominal rig
   and consumption, pricing and output decisions, general equilibrium, yeomen farmers
   and nominal rigidities, general equilibrium with nominal rigidities, and a useful
   log linear version.
-file: /ol-ocw-studio-app/courses/14-452-macroeconomic-theory-ii-spring-2007/2205d95a032612f4c712b0a784cfa0a0_slides07.pdf
+file: /courses/14-452-macroeconomic-theory-ii-spring-2007/2205d95a032612f4c712b0a784cfa0a0_slides07.pdf
 file_size: 240582
 file_type: application/pdf
 learning_resource_types:
