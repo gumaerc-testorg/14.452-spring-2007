@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on money, a cash-in-advance model,
   money in the Utility function, and money growth, inflation, and seignorage.
-file: /ol-ocw-studio-app/courses/14-452-macroeconomic-theory-ii-spring-2007/674c807c0213618b99592671bf2b002c_slides06.pdf
+file: /courses/14-452-macroeconomic-theory-ii-spring-2007/674c807c0213618b99592671bf2b002c_slides06.pdf
 file_size: 336814
 file_type: application/pdf
 learning_resource_types:
